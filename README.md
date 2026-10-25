@@ -1,13 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Registro para Revisión de Literatura — Plantilla Excel con macros" width="100%">
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-.xlsm-217346?logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/VBA-macros-1F3864" alt="VBA">
-  <img src="https://img.shields.io/badge/idioma-español-2F5597" alt="Español">
-  <img src="https://img.shields.io/badge/licencia-MIT-lightgrey" alt="Licencia MIT">
-</p>
 
 # Registro para Revisión de Literatura
 
